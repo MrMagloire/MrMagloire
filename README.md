@@ -1,6 +1,6 @@
 # Hello All
 
-My name is Olayemii Garuba and I'm a software developer from Lagos, Nigeria ðŸ‡³ðŸ‡¬. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Angora Yao Magloire and I'm a software developer from Abidjan, Cote d'Ivoire. You can find me on [![Twitter][1.2]][1]<!--,  or on [![LinkedIn][3.2]][3]-->.
 
 ## Technologies & Tools
 
