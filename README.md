@@ -29,7 +29,7 @@ My name is Angora Yao Magloire and I'm a software developer from Abidjan, Cote d
 ## Contact Me
 
 
-<a href="https://api.whatsapp.com/send?phone=2250708674556&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
+<a href="https://api.whatsapp.com/send?phone=2250708674556&text=Hello%20Magloire,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
 <a href="https://twitter.com/mnsieurmaguy" alt="Follow Me on Twitter"> 
